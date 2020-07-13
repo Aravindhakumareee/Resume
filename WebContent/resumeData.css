@@ -91,21 +91,6 @@
   width: 197px;
 }
 
-
-
-/* Create an active/current tablink class */
-/* .tablinks.active { */
-/*     background-color: #898989; */
-/* } */
-
-/* .technical.active */
-/* { */
-/* 	 background-color: #898989; */
-/*     height: 72px; */
-/*     width: 256px; */
-/*     left:290px; */
-/* } */
-
 /* Style the tab content */
 .tabcontent {
       display: none;
