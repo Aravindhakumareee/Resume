@@ -12,7 +12,7 @@ public class Intro extends Constr {
 	i=0; // To convert Float
 	d=100; // to convert byte
 	e=2; // to convert int
-	System.out.println("Type conversion \n");
+	System.out.println("Type conversion \n\n");
 	int g= (int)e;
 	System.out.println("Type conversion Result\n\n" +g);
 }
